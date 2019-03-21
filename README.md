@@ -15,3 +15,5 @@ After achieving good results with 2-hands, I tested the model on real clock imag
 Thus, the next model was trained on randomly generated images with digits (arabic, roman or simple lines). This set was increased to 96x96 so that the numbers are somewhat readable.
 
 `w_numbers` - Hours and minutes hands and digits printed at the edges.
+
+Finally, I tested the version with digits on real images (chosen arbitrarily from google images), with mixed success. 
