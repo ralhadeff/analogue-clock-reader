@@ -16,4 +16,4 @@ Thus, the next model was trained on randomly generated images with digits (arabi
 
 `w_numbers` - Hours and minutes hands and digits printed at the edges.
 
-Finally, I tested the version with digits on real images (chosen arbitrarily from google images), with mixed success. 
+Finally, I tested the version with digits on real images (chosen arbitrarily from google images), with mixed success. I think that I will have to add to the hands small protrusions on the opposite end, and probably also a thin seconds hand to ensure the networks learns to ignore it.
