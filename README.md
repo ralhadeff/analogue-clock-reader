@@ -18,4 +18,4 @@ Thus, the next model was trained on randomly generated images with digits (arabi
 
 Finally, I tested the version with digits on real images (chosen arbitrarily from google images), with mixed success. I think that I will have to add to the hands small protrusions on the opposite end, and probably also a thin seconds hand to ensure the networks learns to ignore it.
 
-`w_seconds` - Seconds hand and protrusions (that should be ignored by network). Image quality increase to 128x128
+`w_seconds` - Seconds hand and protrusions added (that should be ignored by network), appear optionally in the images. Image quality increase to 128x128 to better distinguish between thickness of hands.
