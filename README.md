@@ -5,7 +5,7 @@ Project to generate a convolutional neuron network that can read an analogue clo
 
 Training is performed on randomly generated images (initially 64x64, in RGB).  
 
-`1-hand` - Only the hour's hand has been implemented. One example image has been uploaded in the folder.  
+* `1-hand` - Only the hour's hand has been implemented. One example image has been uploaded in the folder.  
 
 `2-hands` - Hours and minutes hands implemented (at 5 minutes intervals).  
 
