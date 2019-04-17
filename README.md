@@ -18,4 +18,4 @@ Finally, I tested the version with digits on real images (chosen arbitrarily fro
 
 * `w_seconds` - Seconds hand and protrusions added (to be ignored by the network), appear stochastically in the training images. Image quality was increased to 128x128 to better distinguish the thickness of the hands. Mixed success.
 
-Note: the performance of all networks is very high on the generated images (with a train/test split) but assessment is done on RL images.
+**Note:** the performance of all networks is very high on the generated images (with a train/test split) but assessment is done on RL images.
